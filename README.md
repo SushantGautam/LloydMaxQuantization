@@ -34,3 +34,7 @@ Cannot use library functions to implement the uniform quantizer and LIyod-Max al
 Use the definition of Gaussian random variable to implement it. No libraries allowed. 
 
 Allowed programming languages = C++, Java, MATLAB, Python 
+
+
+![image](https://user-images.githubusercontent.com/16721983/164712546-0e5dde79-84e9-4740-84dc-d7e9dde28bac.png)
+
